@@ -44,6 +44,6 @@ Create an instance of Date Picker and add it to your page.
 
 The following screenshot illustrates the result of the above code.
 
-![Set Height and width in .NET MAUI Date picker.](images/getting-started/maui-date-picker-set-height-and-width.png)
+![Set Height and width in .NET MAUI Date picker.](maui-date-picker-set-height-and-width.png)
 
 You can download the Picker Getting Started sample from [GitHub](https://github.com/syncfusion/maui-demos/tree/master/MAUI/Picker/SampleBrowser.Maui.Picker/Samples/DatePicker)
